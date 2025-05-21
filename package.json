@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/sirineao/lab_0_log430_Aoudj#readme",
   "devDependencies": {
+    "@eslint/js": "^9.27.0",
     "eslint": "^9.27.0",
+    "globals": "^16.1.0",
     "jest": "^29.7.0"
   }
 }
