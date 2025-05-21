@@ -1,6 +1,6 @@
 const printHelloWorld = require('./app').printHelloWorld;
 
-test('should return "Hello, World!"', () => {
+test('should return "Hello World!"', () => {
     expect(printHelloWorld()).toBe("Hello, World!");
 }
 );
