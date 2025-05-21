@@ -37,6 +37,6 @@ La pipeline s'execute a chaque push sur la branche main. Les etapes suivantes so
 ## Execution reussie de la pipeline CI/CD
 
 Success de la pipeline
-![image](https://cdn.discordapp.com/attachments/691841760871055451/1374596772969709648/image.png?ex=682ea081&is=682d4f01&hm=e14c2458c42f6da9f4daadcae32a86a098ef9559795b66d11b439b33d55be111&)
+![image](https://cdn.discordapp.com/attachments/691841760871055451/1374612931286667345/image.png?ex=682eaf8d&is=682d5e0d&hm=4a380932bad0f5d80637dd9377970becaa48ef230c49085e9a1f6c614c2ec93c&)
 Image publie sur Docker Hub 
 ![docker](https://cdn.discordapp.com/attachments/691841760871055451/1374597177468518441/image.png?ex=682ea0e1&is=682d4f61&hm=c079a583968ea7e38c51a89644a3095a9154072576801fe01f2ec1216843cb6a&)
