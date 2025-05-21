@@ -1,6 +1,6 @@
 # lab_0_log430_Aoudj - Hello Worl App
 
-Cette repo contient un projet simple qui affiche "Hello, World!" dans la console. 
+Cette repo contient un projet simple qui affiche "Hello World!" dans la console. 
 Pour ce laboratoire j'ai choisi de faire une application simple avec Node.js.
 J'ai choisien JavaScript comme langues puisque c'est laquelle avec je suis la plus a l'aise.
 Et donc puisque j'ai pris JS, j'ai utilise Jest pour les tests unitaires.
@@ -20,7 +20,7 @@ Et donc puisque j'ai pris JS, j'ai utilise Jest pour les tests unitaires.
 1. Cloner le projet avec le lien https du repo: `git clone https://github.com/sirineao/lab_0_log430_Aoudj`
 2. `cd lab_0_log430_Aoudj`
 3. Pour construire et lancer le container: `docker compose up ---build`
-4. On devrait voir "Hello, World!" dans la console.
+4. On devrait voir "Hello World!" dans la console.
 
 ## Execution reussie de la pipeline CI/CD
 
