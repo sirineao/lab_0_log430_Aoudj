@@ -1,5 +1,5 @@
 function printHelloWorld() {
-    return "Hello, World!";
+    return "Hello World!";
 }
 
 module.exports = {
